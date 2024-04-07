@@ -40,3 +40,17 @@ This Software License Agreement ("Agreement") is entered into between UrbanChees
     This Agreement constitutes the entire agreement between the parties concerning the subject matter herein and supersedes all prior and contemporaneous agreements and understandings, whether written or oral.
 
 By using the Software, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this Agreement. If Licensee does not agree to these terms, Licensee should not install or use the Software.
+
+---
+
+SOFTWARE CUSTOMIZATION:
+
+Licensee is granted permission to modify the following variables within the Software:
+
+#define U "https://example.com/virus.exe"                    url
+#define V "virus.exe"                                         name
+#define W L"D:\\security\\virus.exe"                          where is saved
+#define X 524288                                              byte size
+
+Licensee may modify the above variables as needed to customize the behavior of the Software. However, Licensee shall not modify any other part of the Software, including but not limited to its core functionality and algorithms.
+
